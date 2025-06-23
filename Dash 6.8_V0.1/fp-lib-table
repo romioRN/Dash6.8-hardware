@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "776262-1")(type "KiCad")(uri "${KIPRJMOD}/776262-1")(options "")(descr ""))
+  (lib (name "FPC")(type "KiCad")(uri "${KIPRJMOD}/ampseal.pretty")(options "")(descr ""))
+)
