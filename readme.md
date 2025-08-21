@@ -7,7 +7,13 @@ flash
 
 ESP32 S3 wifi calibration page
 
-ATGM336H GPS
+ATGM336H GPS with on-board battery
+
+2 layer PCB
+
+single side assembly
+
+nextPCB
 
 # pinout
 
