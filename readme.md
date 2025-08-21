@@ -9,6 +9,8 @@ ESP32 S3 wifi calibration page
 
 ATGM336H GPS with on-board battery
 
+wifi name "service", password 12345678, connect to 192.167.4.1
+
 2 layer PCB
 
 single side assembly
