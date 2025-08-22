@@ -17,6 +17,18 @@ single side assembly
 
 nextPCB
 
+# hardware
+
+* GPS antenna 5v "GPS Antenna SMA Connector Car Mini GPS Receiver Antenna 3 Meters Cable Car GPS Antenna Receiver for Car Navigation Camera Player"
+
+* Пигтейл SMA female - MHF4 адаптер переходник для подключения внешней антенны Best Seller
+
+* ribbon cable FFC FPC 40 pin,Reverse Direction,5cm 0.5mm
+
+* threaded inserts M2xL4xOD3.2
+
+* m2 din912 
+
 # pinout
 
 * pin 6 CANH
