@@ -1,0 +1,1 @@
+As is, this design would not accept bronze threaded inserts
